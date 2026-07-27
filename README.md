@@ -114,7 +114,7 @@ To support this finding, additional contextual information regarding population 
 
 Certified Public Accountant graduated with distinction from the National University of Mar del Plata.
 
-Currently working as a Senior Pricing Support Senior Analyst at Accenture Argentina and expanding my skills in Data Analytics through projects focused on business intelligence and data visualization.
+Currently working as a Senior Pricing Support Analyst at Accenture Argentina and expanding my skills in Data Analytics through projects focused on business intelligence and data visualization.
 
 
 
