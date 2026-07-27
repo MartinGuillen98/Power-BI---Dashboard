@@ -2,9 +2,11 @@
 
 This project analyzes a fictional Adidas sales dataset across the United States through an interactive Power BI dashboard. The objective was to identify sales patterns, evaluate regional performance, and validate a business hypothesis using data visualization.
 
-🔗 **Power BI file:** 
+--- 
 
+## 📁 Project Files
 
+- [Download the Power BI Dashboard (.pbix)](./Adidas-Dashboard.pbix)
 
 --- 
 
