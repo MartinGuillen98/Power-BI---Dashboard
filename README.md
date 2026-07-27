@@ -27,7 +27,7 @@ The main objective of this project was to analyze Adidas sales performance acros
 
 **Source**
 
-(https://www.kaggle.com/datasets/ahmedabbas757/dataset)
+[View the dataset on Kaggle](https://www.kaggle.com/datasets/ahmedabbas757/dataset)
 
 **Dataset Description**
 
